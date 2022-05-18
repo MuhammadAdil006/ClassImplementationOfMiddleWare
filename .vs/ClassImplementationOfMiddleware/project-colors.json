@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d06626f1-931c-4fc2-ab88-e1088cfad41f": {
+      "ProjectGuid": "d06626f1-931c-4fc2-ab88-e1088cfad41f",
+      "DisplayName": "ClassImplementationOfMiddleware",
+      "ColorIndex": 0
+    },
+    "c2878869-875f-44e9-9b6e-0bb288fad213": {
+      "ProjectGuid": "c2878869-875f-44e9-9b6e-0bb288fad213",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
